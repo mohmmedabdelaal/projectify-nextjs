@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Frontend Masters Course
+## Projectify
 
-This project and [companion website](https://fullstack-v2-instructions.vercel.app/) are for the Frontend Masters course [Build a Fullstack App from Scratch (feat Next.js), v2](https://frontendmasters.com/courses/fullstack-app-next-v2/)
+This project for the Frontend
 
 ## Getting Started
 

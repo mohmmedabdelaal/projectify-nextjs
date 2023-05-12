@@ -1,5 +1,5 @@
 import '@/styles/global.css'
-import GlassPane from "@/components/glassPane";
+import GlassPane from "@/components/GlassPane";
 import {checkIsOnDemandRevalidate} from "next/dist/server/api-utils";
 
 
